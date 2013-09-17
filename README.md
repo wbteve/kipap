@@ -1,4 +1,4 @@
 kipap
 =====
 
-the first open sources  mobile ad network plat
+the first open source  mobile ad network platform
